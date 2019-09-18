@@ -1,3 +1,5 @@
 # Probability-and-Statistics
 
-ok
+This repository contains all the assignments done in Probability and Statistics course.
+
+Instructor : Angshul Majumdar
